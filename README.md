@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Abgeschlossen-success)
 ![Thema](https://img.shields.io/badge/Thema-Traumapädagogik-blue)
-![Autor](https://img.shields.io/badge/Autor-Marius_Gerber-orange)
+![Autor](https://img.shields.io/badge/Autor-Daniel_Lienhard-orange)
 ![Kurs](https://img.shields.io/badge/Kurs-2024--2027-lightgrey)
 
 <div align="center">
