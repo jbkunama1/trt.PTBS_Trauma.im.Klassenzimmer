@@ -13,6 +13,12 @@
 
 Willkommen in diesem Repository! 🎒 Hier findest du die Ausarbeitung und alle Lerninhalte zum Vortragsthema **Traumatisierte Schüler/Schülerinnen**. Der Fokus liegt darauf, wie Lehrkräfte traumatypische Muster erkennen und im Schulalltag angemessen reagieren können [8].
 
+## 🎬 Video zum Vortrag
+
+<video src="./Trauma_im_Klassenzimmer.mp4" controls width="800">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
 ---
 
 ## 📑 Gliederung
