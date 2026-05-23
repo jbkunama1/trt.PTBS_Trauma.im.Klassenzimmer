@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Abgeschlossen-success)
 ![Thema](https://img.shields.io/badge/Thema-Traumapädagogik-blue)
 ![Autor](https://img.shields.io/badge/Autor-Daniel_Lienhard-orange)
-![Kurs](https://img.shields.io/badge/Kurs-2024--2027-lightgrey)
+![Kurs](https://img.shields.io/badge/Kurs-2024--2027-lightgrey)[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=1000&auto=format&fit=crop" alt="Klassenzimmer Grafik" width="800">
